@@ -1,1 +1,1 @@
-# Biomedical_Signal_Processing_Course_Project
+# Biomedical Signal Processing Course Project
